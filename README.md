@@ -1,4 +1,4 @@
-# JS Thermostat
+# JS FizzBuzz
 
 
 ## Motivation
